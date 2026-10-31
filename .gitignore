@@ -1,0 +1,11 @@
+.venv/
+.mplcache/
+.pytest_cache/
+__pycache__/
+*.egg-info/
+.DS_Store
+results/sac_bike.zip
+
+pyproject.toml
+uv.lock
+README.md
